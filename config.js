@@ -10,7 +10,7 @@ global.Owner = {
   },
   '6281270532125': { // put your number here
     isDev: false // if true this number will send if bot have bug and developer mode true
-    isReport: false // if true this number will send if user use command /report or /join
+    isReport: true // if true this number will send if user use command /report or /join
     isCreator: true // if true this number will send if user use command /owner or /creator
   },
   '6282256115584': { // put your number here
